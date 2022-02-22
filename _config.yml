@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
-  bio    : "I'm a Research Associate at Lahore University of Management Sciences with an interest in Cognitive Neuroscience, Neuroimaging, and Neuromodulation"
+  bio    : "Researcher with an interest in Cognitive Neuroscience, Neuroimaging, and Neuromodulation"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
