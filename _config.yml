@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
-  bio    : "Researcher with an interest in Cognitive Neuroscience, Neuroimaging, and Neuromodulation"
+  bio    : "Researcher and aspiring PhD candidate with an interest in Cognitive Neuroscience, Neuroimaging, and Neuromodulation"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
