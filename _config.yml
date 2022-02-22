@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Syed Ali Muqtadir"
+  name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a Research Associate at Lahore University of Management Sciences with an interest in Cognitive Neuroscience, Neuroimaging, and Neuromodulation"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
