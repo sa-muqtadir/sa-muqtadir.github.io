@@ -2,7 +2,7 @@
 title: "The effect of training intensity on implicit learning rates in schizophrenia"
 date: 2021
 categories:
-  - Publication
+  - Publications
 ---
 
 
