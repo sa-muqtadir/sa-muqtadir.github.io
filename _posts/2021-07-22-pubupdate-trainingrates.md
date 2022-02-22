@@ -9,7 +9,7 @@ categories:
 ## 2021 - Nature Scientific Reports
 
 
-## Abstract
+### Abstract
 
 
 Cognitive impairments in learning and memory are core symptoms of schizophrenia, associated with reduced self-reported quality of life. 
