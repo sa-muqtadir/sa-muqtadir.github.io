@@ -57,6 +57,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+analytics: "google-universal"
+google:
+  tracking_id: "G-R3ZG6SLW4N"
+  anonymize_ip: false # default
+  
 author:
   name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
