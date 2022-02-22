@@ -4,5 +4,4 @@ title: "CV"
 type: pages
 ---
 
-
-<a href="sa-muqtadir.github.io/cv-github-feb22.pdf" target="_blank">PDF.</a>
+<object data="{{ site.url }}{{ site.baseurl }}/cv-github-feb22.pdf" width="1000" height="1000" type="application/pdf"></object>
