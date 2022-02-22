@@ -1,5 +1,5 @@
 ---
-title: "New Publication: The effect of training intensity on implicit learning rates in schizophrenia"
+title: "The effect of training intensity on implicit learning rates in schizophrenia"
 categories:
   - Publication
 ---
