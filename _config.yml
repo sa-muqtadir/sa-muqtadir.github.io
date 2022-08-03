@@ -63,13 +63,13 @@ google:
   anonymize_ip: false # default
   
 author:
-  name   : "Ali Muqtadir"
+  name   : "Syed Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
-  bio    : "Researcher in Communication with an interest in Cognitive Neuroscience"
+  bio    : "Graduate student at the University of Stirling - Keywords: Cognition; Football; Dementia"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:samuqtadir@pm.me"
+      url: "mailto:muqtadir.syedali@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sa_muqtadir"
