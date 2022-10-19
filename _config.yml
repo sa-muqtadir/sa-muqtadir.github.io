@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Syed Ali Muqtadir 
-email: samuqtadir@pm.me
+email: ali.muqtadir@stir.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -69,7 +69,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:muqtadir.syedali@gmail.com"
+      url: "mailto:ali.muqtadir@stir.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sa_muqtadir"
@@ -84,7 +84,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:muqtadir.syedali@gmail.com"
+      url: "mailto:ali.muqtadir@stir.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sa_muqtadir"
