@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Currently, I am about to start my PhD program at the University of Stirling where I will be looking at the deletrious effects of heading in soccer and its links with dementia.
+I'm a PhD student at the University of Stirling where my project uses a multi-methods approach to look at the deletrious effects of heading in soccer and its links with dementia.
 
 
 I was a Research Associate at the Lahore University of Management Sciences where I studied how information speards in online spaces, how it is perceived and how it affects human behavior. Some of these projects have involved looking at misinformation, vaccine hesitancy, gender roles on social media, and online viral content.
