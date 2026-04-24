@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: _pages/cv.md
+    url: /pages/cv.md
   - title: "Posts and Publications"
     url: /posts/
 
