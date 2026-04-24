@@ -1,7 +1,6 @@
 ---
 permalink: /cv/
 title: "CV"
-type: pages
 ---
 # Ali Muqtadir
 
