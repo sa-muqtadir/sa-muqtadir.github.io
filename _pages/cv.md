@@ -1,4 +1,5 @@
 ---
+permalink: /cv/
 title: "CV"
 type: pages
 ---
