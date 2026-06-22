@@ -122,3 +122,12 @@ University of Central Punjab — Lahore, PK
 **Lahore University of Management Sciences** | 2019–2022
 - Trained undergraduate researchers in eye-tracking data collection on a Gazepoint system
 - Delivered lectures on research methods for undergraduate students
+
+---
+
+## Additional Skills & Courses
+- MRI Safety Training for MHRA Category B Staff (TURAS Learn, 2025)
+- Peripheral I.V. cannulation certification (Geopace Training, 2025)
+- Visceral Mind – Functional neuroanatomy summer school (five-day course; Bangor University, 2023)
+- Phlebotomy certification (Geopace Training, 2023)
+
