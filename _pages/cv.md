@@ -2,8 +2,6 @@
 permalink: /cv/
 ---
 
-# Ali Muqtadir
-
 Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 
 [sam24@stir.ac.uk](mailto:sam24@stir.ac.uk) · [ORCID: 0000-0002-1361-1041](https://orcid.org/0000-0002-1361-1041)
