@@ -62,11 +62,11 @@ google:
 author:
   name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
-  bio    : "Graduate student at the University of Stirling - Keywords: Cognition; Football; Dementia"
+  bio    : "Doctoral researcher at the University of Stirling"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:ali.muqtadir@stir.ac.uk"
+      url: "mailto:sam24@stir.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sa_muqtadir"
@@ -81,7 +81,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:ali.muqtadir@stir.ac.uk"
+      url: "mailto:sam24@stir.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sa_muqtadir"
