@@ -15,11 +15,13 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 ### Doctoral Researcher, Department of Psychology, University of Stirling
 *2022 – Present*
 
-- Designed a controlled heading research project with multi-modal pre/post assessment with neuroimaging (EEG, MRI), brain stimulation (TMS) and blood biomarkers spanning three Scottish university partners and international collaborators (Forschungszentrum Jülich, Germany)
+- Investigated the acute effects of controlled football heading in a research project with multi-modal pre/post assessment with neuroimaging (EEG, MRI), brain stimulation (TMS) and blood biomarkers spanning three Scottish university partners (Stirling, Edinburgh, Glasgow), international collaborators (RWTH Aachen, Forschungszentrum Jülich), and industry partners (Magstim)
 - Used 7T MR spectroscopy to investigate acute heading effects on in vivo GABA at the Imaging Centre for Excellence (ICE), Glasgow
-- Conducted a serial sampling study to investigate heading effects on blood-based biomarkers of brain injury using ultra-sensitive immunoassays at UK DRI labs, University of Edinburgh
+- Explored how heading changes the trajectory blood-based biomarkers of brain injury over 24 hours in a serial sampling study using ultra-sensitive immunoassays at UK DRI labs, University of Edinburgh
+- Used concurrent TMS-EEG to investigate excitation-inhibition balance changes following heading exposure
 - Collected and contributed heading kinematic data to computational simulations of brain biomechanics following heading impacts in collaboration with the Department of Engineering, University of Edinburgh
-- Led and contributed to successful funding applications with management of budgets, scheduling and external collaborations to ensure research output delivery
+- Led and contributed to successful funding applications, ensured compliance with local and external ethics and governance procedures including international cooperation agreements
+- Contributed to increasing technical capabilities at Stirling with the first implementation of TMS-EEG and adoption of a low-cost navigated TMS system, and at ICE, Glasgow with the first implementation of an edited MRS sequence on the 7T scanner 
 
 ### Research Associate, Lahore University of Management Sciences
 *2019 – 2022*
@@ -52,7 +54,7 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 
 - **2025** — RS MacDonald Facility Access Funding (£9,500)
 - **2022** — SINAPSE Early Career Exchange Fund (£2,841)
-- **2022 – 2026** — Medical Research Scotland PhD Studentship (4-year award covering stipend, fees and research expenses up to £35,000)
+- **2022 – 2026** — Medical Research Scotland PhD Studentship (4-year award covering stipend and fees, including £35,000 in research expenses)
 - **2013 – 2016** — Academic Merit Scholarship, University of Central Punjab
 
 ---
