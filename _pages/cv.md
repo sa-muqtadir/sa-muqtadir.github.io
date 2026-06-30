@@ -42,7 +42,7 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 
 | Area | Methods and tools |
 |------|-------------------|
-| **Neuroimaging** | Structural MRI, MR spectroscopy, EEG acquisition and processing; SPM (MATLAB), FSL, FreeSurfer, TARQUIN, Osprey, EEGLAB (MATLAB), BrainVision Analyzer |
+| **Neuroimaging** | MR spectroscopy, EEG acquisition and processing; SPM (MATLAB), FSL, FreeSurfer, TARQUIN, Osprey, EEGLAB (MATLAB), BrainVision Analyzer |
 | **Brain stimulation and physiology** | Transcranial direct current stimulation (tDCS), transcranial magnetic stimulation (TMS), electromyography (EMG); Biopac AcqKnowledge |
 | **Biological methods** | Blood-based biomarkers of brain injury (ultra-sensitive Quanterix SIMOA immunoassays), venepuncture and peripheral IV cannulation (certified), preanalytical processing for blood samples |
 | **Assessment** | Structured clinical interviews, cognitive and neuropsychological assessments |
