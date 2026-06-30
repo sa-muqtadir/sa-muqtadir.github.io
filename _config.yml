@@ -60,7 +60,7 @@ google:
   anonymize_ip: false # default
   
 author:
-  name   : "Ali Muqtadir"
+  # name   : "Ali Muqtadir"
   avatar : "/gitprofilepic.jpg"
   bio    : "Doctoral researcher at the University of Stirling"
   links:
