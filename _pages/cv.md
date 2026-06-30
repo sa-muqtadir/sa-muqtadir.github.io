@@ -1,11 +1,8 @@
 ---
 permalink: /cv/
-title: "CV"
 ---
 
 # Ali Muqtadir
-
-**Curriculum Vitae**
 
 Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 
