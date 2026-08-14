@@ -16,8 +16,8 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 ### Doctoral Researcher, Department of Psychology, University of Stirling
 *2022 – Present*
 
-- Investigated the acute effects of controlled football heading in a research project with multi-modal pre/post assessment with neuroimaging (EEG, MRI), brain stimulation (TMS) and blood biomarkers spanning three Scottish university partners (Stirling, Edinburgh, Glasgow), international collaborators (RWTH Aachen, Forschungszentrum Jülich), and industry partners (Magstim)
-- Used 7T MR spectroscopy to investigate acute heading effects on in vivo GABA at the Imaging Centre for Excellence (ICE), Glasgow
+- My PhD project focused on isolating the acute effects of football heading on cortical excitation-inhibition, neuronal structural integrity, and neural metabolites
+- Used 7T MR spectroscopy to investigate heading effects on brain metabolites at the Imaging Centre for Excellence (ICE), Glasgow and Forschungszentrum Jülich
 - Explored how heading changes the trajectory blood-based biomarkers of brain injury over 24 hours in a serial sampling study using ultra-sensitive immunoassays at UK DRI labs, University of Edinburgh
 - Used concurrent TMS-EEG to investigate excitation-inhibition balance changes following heading exposure
 - Collected and contributed heading kinematic data to computational simulations of brain biomechanics following heading impacts in collaboration with the Department of Engineering, University of Edinburgh
@@ -27,6 +27,7 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 ### Research Associate, Lahore University of Management Sciences
 *2019 – 2022*
 
+- Worked in the areas of consumer behaviour and communication to investigate how 'viral' content spreads online and the factors that mediate the spread of misinformation or 'fake news'
 - Contributed to three concurrent research projects on online misinformation, social media communication and digital content virality
 - Co-authored empirical case studies applying a logistic diffusion model to real-world YouTube virality data for Bhimani et al. (2024)
 - Contributed to study design and manuscript drafting for Ali et al. (2022)
@@ -62,7 +63,7 @@ Department of Psychology, University of Stirling, Stirling, Scotland, FK9 4LA
 
 ## Education
 
-### PhD Psychology, University of Stirling
+### PhD Neuroscience, University of Stirling
 *2022 – Present*
 
 - Supervisors: Magdalena Ietswaart, Lindsay Wilson, Colin Moran
