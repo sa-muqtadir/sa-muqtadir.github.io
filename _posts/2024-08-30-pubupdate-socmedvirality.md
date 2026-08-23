@@ -6,7 +6,7 @@ categories:
 ---
 
 
-## 2021 - Journal of International Business Research and Marketing
+## 2024 - Journal of International Business Research and Marketing
 
 
 ### Abstract
