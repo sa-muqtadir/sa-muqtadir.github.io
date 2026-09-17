@@ -6,7 +6,7 @@ categories:
 ---
 
 
-## 2026 - Journal of International Business Research and Marketing
+## 2026 - bioRxiv
 
 
 ### Abstract
